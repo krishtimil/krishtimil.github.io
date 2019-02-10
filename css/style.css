@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+}
+a {
+    color: darkgreen;
+}
+hr {
+    border: 1px dashed green;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
