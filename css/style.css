@@ -12,3 +12,10 @@ hr {
     margin-top: 5%;
     margin-bottom: 5%;
 }
+img {
+    border: 1px;
+    border-color: white;
+    border-radius: 50%;
+    width: 200px;
+}
+
