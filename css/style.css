@@ -2,7 +2,21 @@ body {
     background-color: black;
     font-family: monospace;
     color: green;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-auto-flow: row;
 }
+section {
+    display: grid;
+    gap: 4px;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-items: center;
+}
+
+
+
 a {
     color: darkgreen;
 }
